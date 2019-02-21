@@ -2,6 +2,8 @@
 
 # Original Japanese Translation by onebone (jyc00410@gmail.com)
 # Translated into fluent Japanese by haniokasai (11/04/2015) (htek@haniokasai.com, @haniokasai for Twitter)
+
+# 2019/02/21 Fixed YAML by PJZ9n (@pjz9n)
 ---
 messages-version: "1.4.0_01"
 language: "jp"
